@@ -10,6 +10,7 @@
   "dependencies": {
     "@slidev/cli": "^0.43.15",
     "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest"
+    "@slidev/theme-seriph": "latest",
+    "tsparticles-confetti": "^2.12.0"
   }
 }
