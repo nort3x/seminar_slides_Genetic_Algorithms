@@ -27,7 +27,23 @@ src: ./pages/5.vocab.md
 ---
 
 ---
-src: ./pages/6.radio-active.md
+src: ./pages/5'.convex_quote.md
+---
+
+---
+src: ./pages/6.0.radio-active.md
+---
+
+---
+src: ./pages/6.1.radio-active.md
+---
+
+---
+src: ./pages/6.2.radio-active.md
+---
+
+---
+src: ./pages/6.3.radio-active.md
 ---
 
 ---
