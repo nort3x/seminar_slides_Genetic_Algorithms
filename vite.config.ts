@@ -2,5 +2,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-    assetsInclude: ['**/*.mov'],
+    assetsInclude: ['**/*.mov', '**/*.jpg'],
 })
