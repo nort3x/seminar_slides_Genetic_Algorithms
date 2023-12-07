@@ -47,5 +47,27 @@ src: ./pages/6.3.radio-active.md
 ---
 
 ---
+src: ./pages/7.ea.md
+---
+
+---
+src: ./pages/7.ga.md
+---
+
+---
+src: ./pages/7.ga-silver.md
+---
+
+---
+src: ./pages/7.ga-savior.md
+---
+---
+src: ./pages/7.ga-savior-2.md
+---
+---
+src: ./pages/7.ga-savior-3.md
+---
+
+---
 src: ./pages/10.outro.md
 ---
