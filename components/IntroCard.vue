@@ -7,24 +7,24 @@
           <span class="acronom">E</span>volutionary <span class="acronom">A</span>lgorithms
         </h2>
         <h3 class="w-full">
-          A dependable tool in your toolbox
+          A toolkit for tackling non-convex optimization
         </h3>
       </div>
       <div class="flex flex-row justify-between items-end">
-        <table style="max-width: 30%">
+        <table style="max-width: 40%">
           <tr>
             <td class="text-[orange]">Author</td>
             <td>Hooman Ardaki</td>
           </tr>
           <tr>
             <td class="text-[orange]">Supervisor</td>
-            <td>S.M Vaez Allaei</td>
+            <td>Dr. S.M Vaez Allaei</td>
           </tr>
         </table>
 
         <table class="max-w-[15%] leading-[10px] ">
           <tr class="text-center text-[0.75rem]">
-            <td>November 2023</td>
+            <td>December 2023</td>
           </tr>
         </table>
 

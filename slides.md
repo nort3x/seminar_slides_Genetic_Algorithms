@@ -64,8 +64,26 @@ src: ./pages/7.ga-savior.md
 ---
 src: ./pages/7.ga-savior-2.md
 ---
+
 ---
 src: ./pages/7.ga-savior-3.md
+---
+
+---
+src: ./pages/8.0.mlp.md
+---
+
+---
+src: ./pages/8.1.mlp.md
+---
+
+---
+src: ./pages/9.0.pros-and-cons.md
+---
+
+
+---
+src: ./pages/9.1.where-is-it-used.md
 ---
 
 ---
